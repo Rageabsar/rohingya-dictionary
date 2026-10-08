@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "language_from": "en",
   "language_to": "rh",
   "words": [
@@ -1360,6 +1360,2664 @@
         "rañdó"
       ],
       "type": "verb"
+    },
+    {
+      "id": "en_000133",
+      "english": [
+        "eleven",
+        "11"
+      ],
+      "rohingya": [
+        "egaro"
+      ],
+      "type": "number"
+    },
+    {
+      "id": "en_000134",
+      "english": [
+        "twelve",
+        "12"
+      ],
+      "rohingya": [
+        "baró"
+      ],
+      "type": "number"
+    },
+    {
+      "id": "en_000135",
+      "english": [
+        "thirteen",
+        "13"
+      ],
+      "rohingya": [
+        "teró"
+      ],
+      "type": "number"
+    },
+    {
+      "id": "en_000136",
+      "english": [
+        "fourteen",
+        "14"
+      ],
+      "rohingya": [
+        "soiddó"
+      ],
+      "type": "number"
+    },
+    {
+      "id": "en_000137",
+      "english": [
+        "fifteen",
+        "15"
+      ],
+      "rohingya": [
+        "fundóro",
+        "fundóroh"
+      ],
+      "type": "number"
+    },
+    {
+      "id": "en_000138",
+      "english": [
+        "sixteen",
+        "16"
+      ],
+      "rohingya": [
+        "cúlloh"
+      ],
+      "type": "number"
+    },
+    {
+      "id": "en_000139",
+      "english": [
+        "seventeen",
+        "17"
+      ],
+      "rohingya": [
+        "háñtaroh",
+        "cáñtaroh"
+      ],
+      "type": "number"
+    },
+    {
+      "id": "en_000140",
+      "english": [
+        "eighteen",
+        "18"
+      ],
+      "rohingya": [
+        "añçáro",
+        "añçároh"
+      ],
+      "type": "number"
+    },
+    {
+      "id": "en_000141",
+      "english": [
+        "nineteen",
+        "19"
+      ],
+      "rohingya": [
+        "unnúic"
+      ],
+      "type": "number"
+    },
+    {
+      "id": "en_000142",
+      "english": [
+        "thirty",
+        "30"
+      ],
+      "rohingya": [
+        "tiríc"
+      ],
+      "type": "number"
+    },
+    {
+      "id": "en_000143",
+      "english": [
+        "forty",
+        "40"
+      ],
+      "rohingya": [
+        "calic"
+      ],
+      "type": "number"
+    },
+    {
+      "id": "en_000144",
+      "english": [
+        "fifty",
+        "50"
+      ],
+      "rohingya": [
+        "fonjaic"
+      ],
+      "type": "number"
+    },
+    {
+      "id": "en_000145",
+      "english": [
+        "sixty",
+        "60"
+      ],
+      "rohingya": [
+        "áith",
+        "háith"
+      ],
+      "type": "number"
+    },
+    {
+      "id": "en_000146",
+      "english": [
+        "seventy",
+        "70"
+      ],
+      "rohingya": [
+        "óttoir",
+        "cóttoir"
+      ],
+      "type": "number"
+    },
+    {
+      "id": "en_000147",
+      "english": [
+        "eighty",
+        "80"
+      ],
+      "rohingya": [
+        "ací"
+      ],
+      "type": "number"
+    },
+    {
+      "id": "en_000148",
+      "english": [
+        "ninety",
+        "90"
+      ],
+      "rohingya": [
+        "nobboi"
+      ],
+      "type": "number"
+    },
+    {
+      "id": "en_000149",
+      "english": [
+        "above"
+      ],
+      "rohingya": [
+        "uore",
+        "uortú"
+      ],
+      "type": "preposition"
+    },
+    {
+      "id": "en_000150",
+      "english": [
+        "accident"
+      ],
+      "rohingya": [
+        "mosibot",
+        "hádesa"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000151",
+      "english": [
+        "address"
+      ],
+      "rohingya": [
+        "thíkana"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000152",
+      "english": [
+        "adult"
+      ],
+      "rohingya": [
+        "dhoóñr manúic",
+        "juan manúic"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000153",
+      "english": [
+        "advice"
+      ],
+      "rohingya": [
+        "mocuwara",
+        "nisíyot",
+        "solá"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000154",
+      "english": [
+        "afraid"
+      ],
+      "rohingya": [
+        "dhora",
+        "dhorfuk"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000155",
+      "english": [
+        "after"
+      ],
+      "rohingya": [
+        "baade",
+        "fore"
+      ],
+      "type": "preposition"
+    },
+    {
+      "id": "en_000156",
+      "english": [
+        "afternoon"
+      ],
+      "rohingya": [
+        "duñíjja",
+        "duíñjja"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000157",
+      "english": [
+        "again"
+      ],
+      "rohingya": [
+        "abbar",
+        "dubara",
+        "arekbar"
+      ],
+      "type": "adverb"
+    },
+    {
+      "id": "en_000158",
+      "english": [
+        "age"
+      ],
+      "rohingya": [
+        "boc",
+        "umór"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000159",
+      "english": [
+        "air"
+      ],
+      "rohingya": [
+        "háwa",
+        "hába"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000160",
+      "english": [
+        "airplane"
+      ],
+      "rohingya": [
+        "plein",
+        "háwar zaáñs"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000161",
+      "english": [
+        "alive"
+      ],
+      "rohingya": [
+        "zinda"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000162",
+      "english": [
+        "all"
+      ],
+      "rohingya": [
+        "beggún",
+        "sób",
+        "tamám"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000163",
+      "english": [
+        "alone"
+      ],
+      "rohingya": [
+        "ekála",
+        "ehéla",
+        "hálika"
+      ],
+      "type": "adverb"
+    },
+    {
+      "id": "en_000164",
+      "english": [
+        "also"
+      ],
+      "rohingya": [
+        "yó",
+        "údda"
+      ],
+      "type": "adverb"
+    },
+    {
+      "id": "en_000165",
+      "english": [
+        "always"
+      ],
+      "rohingya": [
+        "hámica",
+        "códai"
+      ],
+      "type": "adverb"
+    },
+    {
+      "id": "en_000166",
+      "english": [
+        "and"
+      ],
+      "rohingya": [
+        "ar"
+      ],
+      "type": "conjunction"
+    },
+    {
+      "id": "en_000167",
+      "english": [
+        "angel"
+      ],
+      "rohingya": [
+        "fírista"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000168",
+      "english": [
+        "anger"
+      ],
+      "rohingya": [
+        "guccá"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000169",
+      "english": [
+        "angry"
+      ],
+      "rohingya": [
+        "gúcca óiye"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000170",
+      "english": [
+        "animal"
+      ],
+      "rohingya": [
+        "janwar",
+        "fucú"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000171",
+      "english": [
+        "ankle"
+      ],
+      "rohingya": [
+        "sulgirá"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000172",
+      "english": [
+        "answer"
+      ],
+      "rohingya": [
+        "zuab",
+        "juab"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000173",
+      "english": [
+        "ant"
+      ],
+      "rohingya": [
+        "fiáñra"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000174",
+      "english": [
+        "apple"
+      ],
+      "rohingya": [
+        "sép"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000175",
+      "english": [
+        "arm"
+      ],
+      "rohingya": [
+        "dhuwáñ",
+        "fura hát"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000176",
+      "english": [
+        "armpit"
+      ],
+      "rohingya": [
+        "booñl"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000177",
+      "english": [
+        "army"
+      ],
+      "rohingya": [
+        "fóugi",
+        "militiri"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000178",
+      "english": [
+        "arrow"
+      ],
+      "rohingya": [
+        "tir",
+        "hóñla"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000179",
+      "english": [
+        "ash"
+      ],
+      "rohingya": [
+        "sái",
+        "rag"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000180",
+      "english": [
+        "ask"
+      ],
+      "rohingya": [
+        "fusárgor",
+        "súalgor"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000181",
+      "english": [
+        "axe"
+      ],
+      "rohingya": [
+        "kuróil"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000182",
+      "english": [
+        "arrive"
+      ],
+      "rohingya": [
+        "foóñse"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000183",
+      "english": [
+        "add"
+      ],
+      "rohingya": [
+        "zomade",
+        "zomagor"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000184",
+      "english": [
+        "baby"
+      ],
+      "rohingya": [
+        "leda fua",
+        "gura fua"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000185",
+      "english": [
+        "back"
+      ],
+      "rohingya": [
+        "fith"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000186",
+      "english": [
+        "bad"
+      ],
+      "rohingya": [
+        "bura",
+        "hóraf"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000187",
+      "english": [
+        "bamboo"
+      ],
+      "rohingya": [
+        "bañc"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000188",
+      "english": [
+        "basket"
+      ],
+      "rohingya": [
+        "báñir",
+        "dhula"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000189",
+      "english": [
+        "bathroom"
+      ],
+      "rohingya": [
+        "gusólhána"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000190",
+      "english": [
+        "beautiful"
+      ],
+      "rohingya": [
+        "cúndor",
+        "cúndoijja"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000191",
+      "english": [
+        "because"
+      ],
+      "rohingya": [
+        "kiállahoilé",
+        "kiyóllahoilé"
+      ],
+      "type": "conjunction"
+    },
+    {
+      "id": "en_000192",
+      "english": [
+        "bed"
+      ],
+      "rohingya": [
+        "bistára",
+        "bedh"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000193",
+      "english": [
+        "room"
+      ],
+      "rohingya": [
+        "hamrá"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000194",
+      "english": [
+        "bedroom"
+      ],
+      "rohingya": [
+        "gúm or hamrá"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000195",
+      "english": [
+        "beef"
+      ],
+      "rohingya": [
+        "gouru gusso"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000196",
+      "english": [
+        "belief"
+      ],
+      "rohingya": [
+        "biccác",
+        "iman"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000197",
+      "english": [
+        "faith"
+      ],
+      "rohingya": [
+        "iman",
+        "biccác"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000198",
+      "english": [
+        "belly"
+      ],
+      "rohingya": [
+        "tolfeth"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000199",
+      "english": [
+        "betel leaf"
+      ],
+      "rohingya": [
+        "fan"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000200",
+      "english": [
+        "betel nut"
+      ],
+      "rohingya": [
+        "súari"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000201",
+      "english": [
+        "bicycle"
+      ],
+      "rohingya": [
+        "théngari"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000202",
+      "english": [
+        "big"
+      ],
+      "rohingya": [
+        "dhoóñr",
+        "boro"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000203",
+      "english": [
+        "bird"
+      ],
+      "rohingya": [
+        "faik",
+        "forinda"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000204",
+      "english": [
+        "birthday"
+      ],
+      "rohingya": [
+        "zonomdin"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000205",
+      "english": [
+        "black"
+      ],
+      "rohingya": [
+        "hala"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000206",
+      "english": [
+        "blanket"
+      ],
+      "rohingya": [
+        "hombol"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000207",
+      "english": [
+        "blind"
+      ],
+      "rohingya": [
+        "añdá"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000208",
+      "english": [
+        "boat"
+      ],
+      "rohingya": [
+        "buth",
+        "noo"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000209",
+      "english": [
+        "bone"
+      ],
+      "rohingya": [
+        "áñdhdhi"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000210",
+      "english": [
+        "book"
+      ],
+      "rohingya": [
+        "kitab",
+        "boói"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000211",
+      "english": [
+        "borrow"
+      ],
+      "rohingya": [
+        "udárlo",
+        "udárgor"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000212",
+      "english": [
+        "bowl"
+      ],
+      "rohingya": [
+        "gaála"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000213",
+      "english": [
+        "box"
+      ],
+      "rohingya": [
+        "fethi",
+        "sónduk"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000214",
+      "english": [
+        "brain"
+      ],
+      "rohingya": [
+        "demak",
+        "mogoz"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000215",
+      "english": [
+        "brave"
+      ],
+      "rohingya": [
+        "baádur",
+        "hímmotola"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000216",
+      "english": [
+        "broken"
+      ],
+      "rohingya": [
+        "báñgga"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000217",
+      "english": [
+        "breakfast"
+      ],
+      "rohingya": [
+        "nasta",
+        "nassa"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000218",
+      "english": [
+        "breath"
+      ],
+      "rohingya": [
+        "niác"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000219",
+      "english": [
+        "bring"
+      ],
+      "rohingya": [
+        "an",
+        "anó"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000220",
+      "english": [
+        "broom"
+      ],
+      "rohingya": [
+        "fúroin"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000221",
+      "english": [
+        "bucket"
+      ],
+      "rohingya": [
+        "balthí"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000222",
+      "english": [
+        "bus"
+      ],
+      "rohingya": [
+        "baás",
+        "baás garí"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000223",
+      "english": [
+        "busy"
+      ],
+      "rohingya": [
+        "duadi",
+        "mosrúf"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000224",
+      "english": [
+        "butter"
+      ],
+      "rohingya": [
+        "bathár"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000225",
+      "english": [
+        "butterfly"
+      ],
+      "rohingya": [
+        "hoddafuti",
+        "bémbeni"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000226",
+      "english": [
+        "buy"
+      ],
+      "rohingya": [
+        "kin",
+        "kino"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000227",
+      "english": [
+        "beat"
+      ],
+      "rohingya": [
+        "mar",
+        "maro"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000228",
+      "english": [
+        "begin"
+      ],
+      "rohingya": [
+        "cúrugor"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000229",
+      "english": [
+        "burn"
+      ],
+      "rohingya": [
+        "zola",
+        "fura"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000230",
+      "english": [
+        "call"
+      ],
+      "rohingya": [
+        "dhak",
+        "dhaho"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000231",
+      "english": [
+        "camel"
+      ],
+      "rohingya": [
+        "uñth",
+        "jámal"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000232",
+      "english": [
+        "candle"
+      ],
+      "rohingya": [
+        "mumbatti"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000233",
+      "english": [
+        "car"
+      ],
+      "rohingya": [
+        "garí"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000234",
+      "english": [
+        "cardamom"
+      ],
+      "rohingya": [
+        "elasi",
+        "elaci"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000235",
+      "english": [
+        "carpenter"
+      ],
+      "rohingya": [
+        "mistíri"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000236",
+      "english": [
+        "carpet"
+      ],
+      "rohingya": [
+        "haling"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000237",
+      "english": [
+        "carry"
+      ],
+      "rohingya": [
+        "boói loiza",
+        "tulí loiza"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000238",
+      "english": [
+        "carrot"
+      ],
+      "rohingya": [
+        "óloiddá mula",
+        "lal mula"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000239",
+      "english": [
+        "cattle shed"
+      ],
+      "rohingya": [
+        "gouru-sóol",
+        "gourusóol"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000240",
+      "english": [
+        "cave"
+      ],
+      "rohingya": [
+        "kúñdah",
+        "cúrum"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000241",
+      "english": [
+        "cemetery"
+      ],
+      "rohingya": [
+        "hoborostan"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000242",
+      "english": [
+        "chair"
+      ],
+      "rohingya": [
+        "kurusí"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000243",
+      "english": [
+        "chance"
+      ],
+      "rohingya": [
+        "mouka",
+        "fórusa"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000244",
+      "english": [
+        "change"
+      ],
+      "rohingya": [
+        "bodol",
+        "bodolo"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000245",
+      "english": [
+        "chase"
+      ],
+      "rohingya": [
+        "lora",
+        "duñra"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000246",
+      "english": [
+        "catch"
+      ],
+      "rohingya": [
+        "dóro",
+        "lorai dóro"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000247",
+      "english": [
+        "cheap"
+      ],
+      "rohingya": [
+        "óosta",
+        "sóosta"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000248",
+      "english": [
+        "cheek"
+      ],
+      "rohingya": [
+        "galsaba"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000249",
+      "english": [
+        "chest"
+      ],
+      "rohingya": [
+        "sínah",
+        "sínaá"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000250",
+      "english": [
+        "chicken"
+      ],
+      "rohingya": [
+        "kurá"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000251",
+      "english": [
+        "chicken meat"
+      ],
+      "rohingya": [
+        "kurá gusso"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000252",
+      "english": [
+        "chick"
+      ],
+      "rohingya": [
+        "kurásso"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000253",
+      "english": [
+        "child"
+      ],
+      "rohingya": [
+        "fua"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000254",
+      "english": [
+        "children"
+      ],
+      "rohingya": [
+        "fuain"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000255",
+      "english": [
+        "chin"
+      ],
+      "rohingya": [
+        "zaim"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000256",
+      "english": [
+        "choose"
+      ],
+      "rohingya": [
+        "basó",
+        "fosón gor"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000257",
+      "english": [
+        "church"
+      ],
+      "rohingya": [
+        "giriza"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000258",
+      "english": [
+        "circle"
+      ],
+      "rohingya": [
+        "gul",
+        "fakkáraiya"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000259",
+      "english": [
+        "city"
+      ],
+      "rohingya": [
+        "cóor",
+        "thoón"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000260",
+      "english": [
+        "clean"
+      ],
+      "rohingya": [
+        "sáf",
+        "nozíf"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000261",
+      "english": [
+        "clever"
+      ],
+      "rohingya": [
+        "salak",
+        "sotur"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000262",
+      "english": [
+        "climb"
+      ],
+      "rohingya": [
+        "baái uçó",
+        "uçó"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000263",
+      "english": [
+        "clock"
+      ],
+      "rohingya": [
+        "góuçi"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000264",
+      "english": [
+        "close"
+      ],
+      "rohingya": [
+        "bongor"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000265",
+      "english": [
+        "closed"
+      ],
+      "rohingya": [
+        "naça",
+        "bon"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000266",
+      "english": [
+        "near"
+      ],
+      "rohingya": [
+        "hañsé",
+        "korib"
+      ],
+      "type": "adverb"
+    },
+    {
+      "id": "en_000267",
+      "english": [
+        "cloth"
+      ],
+      "rohingya": [
+        "hoor"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000268",
+      "english": [
+        "cloud"
+      ],
+      "rohingya": [
+        "miyóla",
+        "miyúla"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000269",
+      "english": [
+        "coconut"
+      ],
+      "rohingya": [
+        "naijjol",
+        "nairkol"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000270",
+      "english": [
+        "colour"
+      ],
+      "rohingya": [
+        "rong"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000271",
+      "english": [
+        "comb"
+      ],
+      "rohingya": [
+        "óni",
+        "hóni"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000272",
+      "english": [
+        "come"
+      ],
+      "rohingya": [
+        "ai",
+        "aiyó"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000273",
+      "english": [
+        "come down"
+      ],
+      "rohingya": [
+        "lam"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000274",
+      "english": [
+        "come quickly"
+      ],
+      "rohingya": [
+        "zohóntohón aiyó",
+        "toratori aiyó"
+      ],
+      "type": "phrase"
+    },
+    {
+      "id": "en_000275",
+      "english": [
+        "comfort"
+      ],
+      "rohingya": [
+        "aram"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000276",
+      "english": [
+        "corner"
+      ],
+      "rohingya": [
+        "kuna"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000277",
+      "english": [
+        "corpse"
+      ],
+      "rohingya": [
+        "murda",
+        "mora manúic"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000278",
+      "english": [
+        "correct"
+      ],
+      "rohingya": [
+        "sóiyi",
+        "thík"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000279",
+      "english": [
+        "cost"
+      ],
+      "rohingya": [
+        "kimot",
+        "hóssa"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000280",
+      "english": [
+        "count"
+      ],
+      "rohingya": [
+        "gon",
+        "gono"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000281",
+      "english": [
+        "country"
+      ],
+      "rohingya": [
+        "dec",
+        "mullúk"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000282",
+      "english": [
+        "court"
+      ],
+      "rohingya": [
+        "adalot",
+        "koóuth"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000283",
+      "english": [
+        "courtyard"
+      ],
+      "rohingya": [
+        "uçán"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000284",
+      "english": [
+        "cow"
+      ],
+      "rohingya": [
+        "gouru",
+        "gai"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000285",
+      "english": [
+        "cry"
+      ],
+      "rohingya": [
+        "han",
+        "hañn"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000286",
+      "english": [
+        "cup"
+      ],
+      "rohingya": [
+        "fiala",
+        "hoddá"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000287",
+      "english": [
+        "cupboard"
+      ],
+      "rohingya": [
+        "almali"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000288",
+      "english": [
+        "curry"
+      ],
+      "rohingya": [
+        "sálon"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000289",
+      "english": [
+        "curtain"
+      ],
+      "rohingya": [
+        "foroda"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000290",
+      "english": [
+        "collect"
+      ],
+      "rohingya": [
+        "zomagor",
+        "tulílo"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000291",
+      "english": [
+        "dance"
+      ],
+      "rohingya": [
+        "nas",
+        "nasa"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000292",
+      "english": [
+        "danger"
+      ],
+      "rohingya": [
+        "hótara",
+        "hótornak"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000293",
+      "english": [
+        "dangerous"
+      ],
+      "rohingya": [
+        "hótara",
+        "hótornak"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000294",
+      "english": [
+        "dark"
+      ],
+      "rohingya": [
+        "añdár",
+        "hala"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000295",
+      "english": [
+        "daughter"
+      ],
+      "rohingya": [
+        "zíi",
+        "futúni"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000296",
+      "english": [
+        "day"
+      ],
+      "rohingya": [
+        "din"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000297",
+      "english": [
+        "dead"
+      ],
+      "rohingya": [
+        "mora"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000298",
+      "english": [
+        "death"
+      ],
+      "rohingya": [
+        "moot"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000299",
+      "english": [
+        "deep"
+      ],
+      "rohingya": [
+        "mur"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000300",
+      "english": [
+        "deer"
+      ],
+      "rohingya": [
+        "hórin"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000301",
+      "english": [
+        "dinner"
+      ],
+      "rohingya": [
+        "bialor hána",
+        "raitor hána"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000302",
+      "english": [
+        "difficult"
+      ],
+      "rohingya": [
+        "mockil"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000303",
+      "english": [
+        "direction"
+      ],
+      "rohingya": [
+        "mikká"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000304",
+      "english": [
+        "disease"
+      ],
+      "rohingya": [
+        "biaram",
+        "ocúk"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000305",
+      "english": [
+        "doctor"
+      ],
+      "rohingya": [
+        "daktor"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000306",
+      "english": [
+        "dog"
+      ],
+      "rohingya": [
+        "kuñir"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000307",
+      "english": [
+        "doll"
+      ],
+      "rohingya": [
+        "futíla"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000308",
+      "english": [
+        "donkey"
+      ],
+      "rohingya": [
+        "gadá"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000309",
+      "english": [
+        "door"
+      ],
+      "rohingya": [
+        "doroza",
+        "duar"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000310",
+      "english": [
+        "down"
+      ],
+      "rohingya": [
+        "nise",
+        "tole"
+      ],
+      "type": "preposition"
+    },
+    {
+      "id": "en_000311",
+      "english": [
+        "dream"
+      ],
+      "rohingya": [
+        "cóppon",
+        "kúab"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000312",
+      "english": [
+        "dress"
+      ],
+      "rohingya": [
+        "fucák",
+        "lebas"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000313",
+      "english": [
+        "drink"
+      ],
+      "rohingya": [
+        "fiyo",
+        "hóo"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000314",
+      "english": [
+        "drive"
+      ],
+      "rohingya": [
+        "sola"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000315",
+      "english": [
+        "driver"
+      ],
+      "rohingya": [
+        "soloya"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000316",
+      "english": [
+        "drum"
+      ],
+      "rohingya": [
+        "doróm",
+        "dhúl"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000317",
+      "english": [
+        "dry"
+      ],
+      "rohingya": [
+        "fúana",
+        "fúañna"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000318",
+      "english": [
+        "duck"
+      ],
+      "rohingya": [
+        "áñc"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000319",
+      "english": [
+        "dust"
+      ],
+      "rohingya": [
+        "sáta",
+        "dúl"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000320",
+      "english": [
+        "sand"
+      ],
+      "rohingya": [
+        "balu"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000321",
+      "english": [
+        "do"
+      ],
+      "rohingya": [
+        "gor"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000322",
+      "english": [
+        "dish"
+      ],
+      "rohingya": [
+        "decci"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000323",
+      "english": [
+        "eagle"
+      ],
+      "rohingya": [
+        "sil"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000324",
+      "english": [
+        "ear"
+      ],
+      "rohingya": [
+        "han"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000325",
+      "english": [
+        "earth"
+      ],
+      "rohingya": [
+        "zomin",
+        "zobin"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000326",
+      "english": [
+        "easy"
+      ],
+      "rohingya": [
+        "asán",
+        "norom",
+        "uzu"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000327",
+      "english": [
+        "education"
+      ],
+      "rohingya": [
+        "elóm",
+        "fonná"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000328",
+      "english": [
+        "elbow"
+      ],
+      "rohingya": [
+        "kinkini"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000329",
+      "english": [
+        "electricity"
+      ],
+      "rohingya": [
+        "bijili",
+        "kaáren"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000330",
+      "english": [
+        "elephant"
+      ],
+      "rohingya": [
+        "áñti",
+        "háñti"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000331",
+      "english": [
+        "empty"
+      ],
+      "rohingya": [
+        "háli",
+        "háilla"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000332",
+      "english": [
+        "enemy"
+      ],
+      "rohingya": [
+        "ducmon",
+        "duccon"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000333",
+      "english": [
+        "energy"
+      ],
+      "rohingya": [
+        "taakot",
+        "bol"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000334",
+      "english": [
+        "enough"
+      ],
+      "rohingya": [
+        "kaafí",
+        "furafuri"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000335",
+      "english": [
+        "enter"
+      ],
+      "rohingya": [
+        "gól",
+        "góle"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000336",
+      "english": [
+        "equal"
+      ],
+      "rohingya": [
+        "borabor",
+        "fúan fúan"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000337",
+      "english": [
+        "error"
+      ],
+      "rohingya": [
+        "golot"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000338",
+      "english": [
+        "escape"
+      ],
+      "rohingya": [
+        "dáa",
+        "dárr"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000339",
+      "english": [
+        "evening"
+      ],
+      "rohingya": [
+        "házinná"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000340",
+      "english": [
+        "example"
+      ],
+      "rohingya": [
+        "mesál",
+        "nommuna"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000341",
+      "english": [
+        "explain"
+      ],
+      "rohingya": [
+        "buzá",
+        "buzáide"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000342",
+      "english": [
+        "eye"
+      ],
+      "rohingya": [
+        "suk",
+        "souk"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000343",
+      "english": [
+        "eyebrow"
+      ],
+      "rohingya": [
+        "zurbóng",
+        "hazol"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000344",
+      "english": [
+        "eyeglasses"
+      ],
+      "rohingya": [
+        "cocmá"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000345",
+      "english": [
+        "earn"
+      ],
+      "rohingya": [
+        "hama",
+        "háñsil gor"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000346",
+      "english": [
+        "face"
+      ],
+      "rohingya": [
+        "muk",
+        "muu"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000347",
+      "english": [
+        "fall"
+      ],
+      "rohingya": [
+        "fore",
+        "émmikka fore"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000348",
+      "english": [
+        "family"
+      ],
+      "rohingya": [
+        "fémli",
+        "górguccí",
+        "hándan"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000349",
+      "english": [
+        "famous"
+      ],
+      "rohingya": [
+        "mocóur"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000350",
+      "english": [
+        "fan"
+      ],
+      "rohingya": [
+        "fangká"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000351",
+      "english": [
+        "far"
+      ],
+      "rohingya": [
+        "duré"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000352",
+      "english": [
+        "farmer"
+      ],
+      "rohingya": [
+        "álgoróya",
+        "álcaicca"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000353",
+      "english": [
+        "fast"
+      ],
+      "rohingya": [
+        "tes"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000354",
+      "english": [
+        "fat"
+      ],
+      "rohingya": [
+        "mutha",
+        "boli"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000355",
+      "english": [
+        "fear"
+      ],
+      "rohingya": [
+        "dhor",
+        "hóuf",
+        "bói"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000356",
+      "english": [
+        "feel"
+      ],
+      "rohingya": [
+        "maásusgor"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000357",
+      "english": [
+        "female"
+      ],
+      "rohingya": [
+        "maiya",
+        "maiñya"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000358",
+      "english": [
+        "fence"
+      ],
+      "rohingya": [
+        "ara",
+        "añra"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000359",
+      "english": [
+        "field"
+      ],
+      "rohingya": [
+        "kéti",
+        "bil"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000360",
+      "english": [
+        "fight"
+      ],
+      "rohingya": [
+        "maramari",
+        "hoijja",
+        "larái"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000361",
+      "english": [
+        "find"
+      ],
+      "rohingya": [
+        "tuailo",
+        "tuaifa"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000362",
+      "english": [
+        "finger"
+      ],
+      "rohingya": [
+        "ouñl"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000363",
+      "english": [
+        "finish"
+      ],
+      "rohingya": [
+        "fúrah",
+        "hótomgor"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000364",
+      "english": [
+        "firewood"
+      ],
+      "rohingya": [
+        "dargwá"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000365",
+      "english": [
+        "scissors"
+      ],
+      "rohingya": [
+        "kesi"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000366",
+      "english": [
+        "time"
+      ],
+      "rohingya": [
+        "thaim"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000367",
+      "english": [
+        "minute"
+      ],
+      "rohingya": [
+        "miníth",
+        "minóth"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000368",
+      "english": [
+        "stove"
+      ],
+      "rohingya": [
+        "sulá"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000369",
+      "english": [
+        "soap"
+      ],
+      "rohingya": [
+        "sábun",
+        "sóon"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000370",
+      "english": [
+        "juice"
+      ],
+      "rohingya": [
+        "roc"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000371",
+      "english": [
+        "jug"
+      ],
+      "rohingya": [
+        "zog"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000372",
+      "english": [
+        "slipper"
+      ],
+      "rohingya": [
+        "centhár"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000373",
+      "english": [
+        "sheep"
+      ],
+      "rohingya": [
+        "sóol"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000374",
+      "english": [
+        "mat"
+      ],
+      "rohingya": [
+        "caça"
+      ],
+      "type": "noun"
+    },
+    {
+      "id": "en_000375",
+      "english": [
+        "mad"
+      ],
+      "rohingya": [
+        "fool"
+      ],
+      "type": "adjective"
+    },
+    {
+      "id": "en_000376",
+      "english": [
+        "this"
+      ],
+      "rohingya": [
+        "e"
+      ],
+      "type": "pronoun"
+    },
+    {
+      "id": "en_000377",
+      "english": [
+        "that"
+      ],
+      "rohingya": [
+        "é"
+      ],
+      "type": "pronoun"
+    },
+    {
+      "id": "en_000378",
+      "english": [
+        "there is"
+      ],
+      "rohingya": [
+        "asé"
+      ],
+      "type": "phrase"
+    },
+    {
+      "id": "en_000379",
+      "english": [
+        "there is no"
+      ],
+      "rohingya": [
+        "nái"
+      ],
+      "type": "phrase"
+    },
+    {
+      "id": "en_000380",
+      "english": [
+        "go out"
+      ],
+      "rohingya": [
+        "neel"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000381",
+      "english": [
+        "make"
+      ],
+      "rohingya": [
+        "bana"
+      ],
+      "type": "verb"
+    },
+    {
+      "id": "en_000382",
+      "english": [
+        "refrigerator"
+      ],
+      "rohingya": [
+        "boróf ór fethi"
+      ],
+      "type": "noun"
     }
   ]
 }
