@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "language_from": "en",
+  "language_to": "rh",
+  "words": [
+    {
+      "id": "en_000001",
+      "english": ["I"],
+      "rohingya": ["añí", "mui", "aññí"],
+      "type": "pronoun"
+    },
+    {
+      "id": "en_000002",
+      "english": ["you"],
+      "rohingya": ["tuñí", "tui", "oñne"],
+      "type": "pronoun"
+    },
+    {
+      "id": "en_000003",
+      "english": ["boy"],
+      "rohingya": ["fua", "morot fua"],
+      "type": "noun"
+    },
+    {
+      "id": "en_000004",
+      "english": ["eat"],
+      "rohingya": ["há"],
+      "type": "verb"
+    },
+    {
+      "id": "en_000005",
+      "english": ["water"],
+      "rohingya": ["faní"],
+      "type": "noun"
+    }
+  ]
+}
