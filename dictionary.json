@@ -1,46 +1,38 @@
+
 {
-  "version": "1.2.0",
+  "schema_version": "1.2.0",
   "language_from": "en",
   "language_to": "rh",
   "words": [
     {
-      "id": "en_000001",
-      "english": [
-        "I"
-      ],
-      "rohingya": [
-        "añí",
-        "mui",
-        "aññí",
-        "ãi"
-      ],
-      "type": "pronoun"
-    },
-    {
-      "id": "en_000002",
-      "english": [
-        "he"
-      ],
-      "rohingya": [
-        "ite",
-        "hite"
-      ],
-      "type": "pronoun",
-      "usage": {
-        "ite": "He — this one; a male person nearby or pointed out as this one.",
-        "hite": "He — that one; a male person farther away or pointed out as that one."
+      "id": "word_0001",
+      "english": "water",
+      "rohingya": "faní",
+      "type": "noun",
+      "meaning": "Water",
+      "preferred_form": "faní",
+      "alternative_spellings": [],
+      "related_word_ids": [],
+      "verification": {
+        "status": "unverified",
+        "source": null,
+        "reviewer": null
       }
     },
     {
-      "id": "en_000003",
-      "english": [
-        "she"
-      ],
-      "rohingya": [
-        "ibá",
-        "hiba"
-      ],
-      "type": "pronoun"
+      "id": "word_0002",
+      "english": "boy",
+      "rohingya": "fua",
+      "type": "noun",
+      "meaning": "A boy or male child",
+      "preferred_form": "fua",
+      "alternative_spellings": [],
+      "related_word_ids": [],
+      "verification": {
+        "status": "unverified",
+        "source": null,
+        "reviewer": null
+      }
     }
   ]
 }
