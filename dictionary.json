@@ -6,8 +6,8 @@
   "words": [
     {
       "id": "word_0001",
-      "english": ["water"],
-      "rohingya": ["faní"],
+      "english": "water",
+      "rohingya": "faní",
       "type": "noun",
       "meaning": "Water",
       "preferred_form": "faní",
