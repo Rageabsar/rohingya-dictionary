@@ -15,8 +15,8 @@
       "related_word_ids": [],
       "verification": {
         "status": "verified",
-        "source": Native-speaker review,
-        "reviewer": Native-speaker
+        "source": "Native-speaker review",
+        "reviewer": "Native-speaker"
       }
     },
     {
@@ -30,8 +30,8 @@
       "related_word_ids": [],
       "verification": {
         "status": "verified",
-        "source": Native-speaker review,
-        "reviewer": Native-speaker
+        "source": "Native-speaker review",
+        "reviewer": "Native-speaker"
       }
     }
   ]
